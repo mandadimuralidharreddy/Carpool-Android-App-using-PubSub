@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "705516491081",
+    "firebase_url": "https://carpoll-43107.firebaseio.com",
+    "project_id": "carpoll-43107",
+    "storage_bucket": "carpoll-43107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705516491081:android:eb1bb6ddc5c1f961",
+        "android_client_info": {
+          "package_name": "gmapps.com.carpoll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705516491081-nak0f4624vj0s9vd143mvrk3asd45040.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gmapps.com.carpoll",
+            "certificate_hash": "E9EECE472DDE2534B42FCFA26CF36CA01ED0710B"
+          }
+        },
+        {
+          "client_id": "705516491081-1fen568pij3vij0vrgqbpfvhm5f94jhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC83k3ZOxxpZERQKE_1F6pdkryuwRLw_3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705516491081-1fen568pij3vij0vrgqbpfvhm5f94jhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
